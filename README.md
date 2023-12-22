@@ -1,7 +1,7 @@
-Options Indexes
-DirectoryIndex index.html
-Header unset Etag #Удалить заголовок
-Header set X-Admin-Name "John Smith" #Назначить заголовок
+# Options Indexes
+# DirectoryIndex index.html
+# Header unset Etag #Удалить заголовок
+# Header set X-Admin-Name "John Smith" #Назначить заголовок
 #
 #Header set Cache-Control "no-cache" - запретить кеширование браузера на диске
 #Header set Cache-Control "no-store" -
